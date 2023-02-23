@@ -1,2 +1,2 @@
 # Dosya-prefix-de-i-tirici
-dosyanın prefixini örneğin gaming_ bunu gorizyon_ yapıyor 
+bir projeniz var örneğin resources dosyasında gaming_Account var bir çok dosya var ama dosya başları gaming_ örneğin ama normalde dosya başlarındaki prefixleri değiştirmek isteseniz teker teker uğraşmanız gerecektir. ama bu projede gaming_ dosya yolunu alıp Cappuccino_  olarak güncelliyelim örneğin ve python scriptini başlatığımız zaman gaming_ olanlar Cappuccino_  olarak değiştirilmiştir. 
